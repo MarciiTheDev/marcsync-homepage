@@ -12,15 +12,15 @@ export default function Home() {
         <div className="flex justify-center mt-5">
           <div className="flex flex-col w-[50rem] gap-3 max-w-[90%]">
             <h3>With the help of MarcSync, you can store your data inside of a Document-Based Database. (MongoDB) <br /> This is a simple and easy way to store your data.</h3>
-            <p>MarcSync is especially useful for Roblox Developers, who want to store their data in a Database outside of the Roblox Network, or just want to store thier data inside of a Document-Based Database instead of a Key-Value-Based one. But it's also useful for Developers who simply want to store their data in a Database, but don't want to host it on their own.</p>
-            <p>With the help of MarcSync's powerful API, you can easily access and store your data from anywhere, at any time. MarcSync also offers clients for different programming languages including Luau (Roblox), NodeJS & Java which will make it even easier to access your data.</p>
+            <p>MarcSync is especially useful for Roblox Developers, who want to store their data in a Database outside of the Roblox Network, or just want to store thier data inside of a Document-Based Database instead of a Key-Value-Based one. But it&apos;s also useful for Developers who simply want to store their data in a Database, but don&apos;t want to host it on their own.</p>
+            <p>With the help of MarcSync&apos;s powerful API, you can easily access and store your data from anywhere, at any time. MarcSync also offers clients for different programming languages including Luau (Roblox), NodeJS & Java which will make it even easier to access your data.</p>
           </div>
         </div>
       </section>
       <section className="bg-[#3d088a] pt-10 pb-10">
         <div className="flex flex-col items-center justify-center">
           <h1 className="text-md font-bold text-gray-300">WHY SHOULD I USE MARCSYNC?</h1>
-          <p className="text-3xl font-bold mt-1 text-center">It's simple, easy and free!</p>
+          <p className="text-3xl font-bold mt-1 text-center">It&apos;s simple, easy and free!</p>
         </div>
         <div className="flex justify-center mt-5 flex-col items-center">
           <div className="grid grid-cols-3 w-[50rem] gap-3 max-w-[90%]">
@@ -30,7 +30,7 @@ export default function Home() {
             </div>
             <div className="flex flex-col gap-3">
               <p className="font-bold">Easy</p>
-              <p>It's easy to use. Just create a Database, get an API Key and with it's simple API (and clients) you are good to go!</p>
+              <p>It&apos;s easy to use. Just create a Database, get an API Key and with it&apos;s simple API (and clients) you are good to go!</p>
             </div>
             <div className="flex flex-col gap-3">
               <p className="font-bold">Free</p>
@@ -58,7 +58,7 @@ export default function Home() {
             </div>
             <div className="flex flex-col gap-3">
               <p className="font-bold">Uptime</p>
-              <p>MarcSync is hosted almost completely in the cloud, making sure that it's always online and ready to use.</p>
+              <p>MarcSync is hosted almost completely in the cloud, making sure that it&apos;s always online and ready to use.</p>
             </div>
           </div>
         </div>
@@ -66,7 +66,7 @@ export default function Home() {
       <section className="bg-[#1f1f1f] pt-10 pb-10">
         <div className="flex flex-col items-center justify-center">
           <h1 className="text-md font-bold text-gray-300">HOW DO I GET STARTED?</h1>
-          <p className="text-3xl font-bold mt-1 text-center">It's easy!</p>
+          <p className="text-3xl font-bold mt-1 text-center">It&apos;s easy!</p>
         </div>
         <div className="flex justify-center mt-5">
           <div className="flex flex-col w-[50rem] gap-3 max-w-[90%]">
